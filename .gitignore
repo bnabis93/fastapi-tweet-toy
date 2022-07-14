@@ -1,0 +1,6 @@
+server-fastapi/.env
+__pycache__
+.vscode
+node_modules
+yarn.lock
+package-lock.json
